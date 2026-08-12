@@ -1,0 +1,242 @@
+source,target
+исходный код,source code
+управление сервером,server management
+прикладной код,application code
+система управления базами данных,database management system
+рекомендательная блокировка, advisory lock
+экземпляр сервера,server instance
+база данных,database
+лексический анализатор,lexer
+автномная копия,autonomous backup
+синтаксический анализатор,parser
+разработчик ядра,kernel developer
+произвольный каталог,arbitrary catalog
+отказоустойчивость,fault tolerance
+домашний каталог пользователя student,student home directory
+поддержка транзакционности,transactionality support
+расчет контрольных сумм,checksum calculation
+утилита,tool
+повреждение данных,data corruption
+центральный сервер,main server
+операционная система,operating system
+переменная окружения,environment variable
+файловая система,file hierarchy
+реплика,replica
+журнал сообщений,log file
+страница данных,data page
+заготовка конфигурационного файла,sample configuration file
+исполняемый файл,executable
+журнал сервера,server log
+условный оператор,conditional operator
+приглашение,prompt
+каталог данных,data directory
+протокол взаимодействия,communication protocol
+драйвер,driver
+аутентификация,authentication
+"Атомарность, согласованность, изоляция и долговечность","Atomicity, Consistency, Isolation, and Durability"
+Атомарность,Atomicity
+Согласованность,Consistency
+Изоляция,Isolation
+Долговечность,Durability
+транзакция,transaction
+строка,string
+схема,schema
+строка,row
+режим автофиксации,autocommit
+разбор,parsing
+ключ командной строки,command line switch
+системный каталог,system catalog
+мета-информация,metadata
+строка заголовков,header
+переписывание,rewriting
+планирование,planning
+механизм правил,rule system
+потоковая репликация,streaming replication
+файловая репликация,file-based replication
+планировщик,planner
+Информационная система,Information system
+план выполнения,execution plan
+статистика,statistics
+запрос,query
+расширенный режим,extended mode
+курсор,cursor
+портал,portal
+общая память,shared memory
+локальная память,local memory
+механизм многоверсионности,multiversion concurrency control
+снимок данных,data snapshot
+репликация,replication
+карта видимости,visibility map
+карта свободного пространства,free space map
+случайная выборка,random sample
+автоматическая очистка,autovacuum
+кеш,cache
+обертка,wrapper
+разрастание,bloating
+очистка,vacuum
+полная очистка,full vacuum
+журнал предзаписи,write-ahead log
+произвольная команда,arbitary command
+ограничение уникальности,unique constraint
+контрольная точка,checkpoint
+плановое переключение,scheduled switchover
+сборка,build
+оперативная память,random access memory
+вытеснение страниц,page replacement
+вытеснение редкоиспользуемых страниц,Least Recently Used replacement
+временная таблица,temporary table
+горизонт транзакций,transaction horizon
+горизонт очистки,vacuum horizon
+регистрационный номер транзакции в журнале,Log Sequence Number
+восстановление после сбоя,crash recovery
+резервная копия,backup
+резервное копирование,backup
+кластер,cluster
+кластер баз данных,database cluster
+энергонезависимый носитель,persistent storage
+идентификатор объекта,object identifier
+разделяемая библиотека ,shared library
+табличное пространство,tablespace
+слой,fork
+сегмент файла,file segment
+Методика хранения сверхбольших атрибутов,The Oversized-Attribute Storage Technique
+суперпользователь,superuser
+автономная копия,standalone backup
+горячее резервирование,hot backup
+холодное резервирование,cold backup
+роль,role
+версия строки,tuple
+целевая точка восстановления,recovery target
+привилегия,privilege
+обрыв,termination
+атрибут,attribute
+конфигурационный параметр,configuration parameter
+настройка,сonfiguration
+узел,node
+порт,port
+переменная,variable
+восстановление,recovery
+потоковая архивация,stream archiving
+секционированная таблица,partitioned table
+двунаправленная репликация,bidirectional replication
+расширение,extension
+балансировщик,load balancer
+транзакционность,transactionality
+фоновый процесс,background process
+отображение,mapping
+накопительная статистика,cumulative statistics
+включающая роль,parent role
+маска файла,file name pattern
+обслуживающий процесс,backend
+приемник сообщений,message receiver
+коллектор сообщений,message collector
+взаимоблокировка,deadlock
+зацикливание репликации,replication loop
+расширяемость,extensibility
+сущность,entity
+подстановка,inlining
+подпрограмма,routine
+перегрузка,overloading
+сигнатура подпрограммы,routine signature
+полиморфный псевдотип,polymorphic pseudotype
+ограничение целостности,constraint
+табличная функция,set-returning function
+процедурный язык,procedural language
+цикл,loop
+метка,label
+массив,array
+терминальный клиент,command-line client
+запись в журнале,log entry
+привязка,binding
+пул соединений,connection pooling
+подключение по умолчанию,default connection
+модель «сущность — связи»,entity-relationship model
+связь,relationship
+сущность — атрибут — значение,entity-attribute-value
+нормализация,normalization
+нормальная форма,normal form
+денормализация,denormalization
+целое число,integer
+последовательность,sequence
+внешний ключ,foreign key
+составной внешний ключ,composite foreign key
+логический тип данных,boolean type
+триггер,trigger
+представление,view
+конкатенация,concatenation
+глобальная переменная,global variable
+подзапрос,subquery
+накладные расходы,overhead
+строковая константа,string literal
+хранимая функция,stored function
+составной тип,composite type
+внедрение SQL-кода,SQL injection
+литерал,literal
+экранировать,escape
+экранирование,escaping
+матричный отчет,matrix report
+срез массива,array slice
+вхождение,inclusion
+пересечение,intersection
+одномерный массив,one-dimensional array
+многомерный массив,multidimensional array
+целочисленный индекс,integer index
+скалярное значение,scalar value
+запись,record
+индекс,index
+индекс базы данных,database index
+конструкция,construct
+неопределенное значение,null value
+инициализация,initialization
+переменная составного типа,composite variable
+вложенный цикл,nested loop
+полиморфная подпрограмма,polymorphic routine
+время выполнения,run time
+атомарное значение,atomic value
+первая нормальная форма,first normal form
+отношение «многие ко многим»,many-to-many relationship
+условное выражение,conditional expression
+фиктивный параметр,dummy parameter
+обработка ошибок,error handling
+обработчик ошибок,error handler
+точка сохранения,savepoint
+сериализация,serialization
+«жонглирование» исключениями,exception juggling
+произвольные данные,arbitrary data
+переходная таблица,transition table
+уровень строк,row level
+уровень оператора,statement level
+событийный триггер,event trigger
+триггерная функция,trigger function
+язык описания данных,data definition language
+язык манипулирования данными,data manipulation language
+неявное выполнение триггеров,implicit trigger execution
+счетчик,counter
+отладка,debugging
+отладчик,debugger
+"проверка условий, которые всегда должны выполняться",sanity check
+точка прерывания,breakpoint
+служебное сообщение,debug message
+трассировка,tracing
+парольная аутентификация,password authentication
+управляющая функция,control function
+логическое резервирование,logical backup
+администратор баз данных,database administrator
+физическое резервирование,physical backup
+консоль,terminal
+разделитель,delimiter
+параллелизм,parallel execution
+параллельная выгрузка,parallel backup
+сокет,socket
+заголовок страницы,page header
+версия строки,row version
+указатель,pointer
+специальное пространство,special space
+служебная информация,metadata
+нулевая страница,metapage
+указатель на версии строк,item pointer
+битовая карта неопределенных значений,null bitmap
+вложенная транзакция,subtransaction
+обработка исключений,exception handling
+бит-подсказка,hint bit
+слой,fork

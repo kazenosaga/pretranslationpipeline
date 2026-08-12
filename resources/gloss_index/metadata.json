@@ -1,0 +1,10 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "normalize": true,
+  "csv_path": "C:\\Incoming\\pppp\\resources\\gloss.csv",
+  "csv_sha256": "b399a21b9fe1ad8534237e5d620787606e82d76b231b0c877f17869dfa426184",
+  "count": 238,
+  "dim": 384,
+  "created_at": "2025-10-14T21:26:10.888289+03:00",
+  "notes": "Embeddings align 1:1 with gloss_terms.json and gloss_targets.json"
+}
