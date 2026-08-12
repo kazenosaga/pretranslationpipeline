@@ -12,8 +12,6 @@ This is a proof-of-concept machine translation pipeline using:
 
 Python
 
-~~PostgreSQL local network access (VPN)~~
-
 ```bash
 pip install openai sentence-transformers numpy pandas python-dateutil anthropic
 ```
